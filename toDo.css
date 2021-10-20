@@ -1,0 +1,30 @@
+* {
+    padding : 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body { 
+    margin: 13rem auto ;
+    padding: 3rem 4rem ;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    background-color: beige;
+    
+}
+
+
+ul {
+    list-style-type: none;
+   
+}
+
+li{
+    margin: 3%;
+    padding: auto 3%;
+    
+}
+
+
